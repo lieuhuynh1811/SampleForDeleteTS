@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>DatabaseIntegritySuite</name>
+   <name>Bulk Delete 4 DatabaseIntegritySuite</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,7 +10,7 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>8b167550-7d0f-4970-8e63-125ef9bd4044</testSuiteGuid>
+   <testSuiteGuid>0c520b88-c871-4acf-820c-133ede44cc43</testSuiteGuid>
    <testCaseLink>
       <guid>12b1ed24-3d2b-4bed-87e1-7c72470cdce7</guid>
       <isReuseDriver>false</isReuseDriver>
